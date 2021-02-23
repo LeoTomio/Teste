@@ -1,0 +1,15 @@
+.campo{
+    width: 250px;
+    height: 20px;
+}
+
+#botao{
+    width: 70px;
+    height: 40px;
+}
+
+body{
+    background-color: black;
+    color:white
+    
+}
