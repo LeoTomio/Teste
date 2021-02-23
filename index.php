@@ -16,7 +16,7 @@ require './Modelo/Pessoa.php';
         <?php
         
         $callClass = new Pessoa();
-        
+         
         if(isset($_POST['cadastrar'])){
           $nome = $_POST['nome'];
           $idade = $_POST['idade'];
